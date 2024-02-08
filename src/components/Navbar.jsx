@@ -15,7 +15,7 @@ function Navbar() {
    }
 
   return (
-            <div className =' bg-blue-300 sticky top-0'>
+            <div className =' bg-blue-300 sticky top-0 z-50'>
                 <div className=' h-[90px] w-full  px-[5%] '>
                     <header className='text-black flex justify-between items-center h-full'>
                         <div className='flex items-center gap-2'>

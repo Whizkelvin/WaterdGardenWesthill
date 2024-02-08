@@ -9,7 +9,7 @@ function HomePage() {
   return (
     <>
       <div>
-        <div className="w-full relative">
+        <div className="w-full relative z-30">
           <div className="w-full ">
             <img
               src="https://res.cloudinary.com/dnkk72bpt/image/upload/v1706910775/IMG-20231125-WA0019_ql7rgp.jpg"
